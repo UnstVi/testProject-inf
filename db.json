@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/247214370.jpg",
+      "name": "HP Pavilion Gaming 15-ec2013ua (4A7M9EA) Shadow Black",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "1200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/247214370.jpg",
+      "name": "HP Pavilion Gaming 15-ec2013ua (4A7M9EA) Shadow Black",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "1200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/225753634.jpg",
+      "name": "Samsung Galaxy M52 5G 6/128 GB Black (SM-M526BZKHSEK)",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "350g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    }
+  ],
+  "comments": []
+}
