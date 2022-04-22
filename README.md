@@ -1,10 +1,17 @@
+
+
 # Getting Started with Create React App
+
+## You need to install json-server
+`npm install -g json-server` 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm run serve`
+Runs json-server
 
 ### `npm start`
 

@@ -44,6 +44,21 @@
         "CommentModel",
         "CommentModel"
       ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/225753634.jpg",
+      "name": "Samsung Galaxy M52 5G 6/128 GB Black (SM-M526BZKHSEK)",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "350g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
     }
   ],
   "comments": []
